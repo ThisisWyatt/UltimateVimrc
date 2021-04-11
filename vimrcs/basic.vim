@@ -191,6 +191,12 @@ set ai "Auto indent
 set si "Smart indent
 set wrap "Wrap lines
 
+" show line number
+set number 
+
+" enable to use mouse in vim
+set mouse=a
+
 
 """"""""""""""""""""""""""""""
 " => Visual mode related
